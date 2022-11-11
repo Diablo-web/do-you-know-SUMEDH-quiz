@@ -1,6 +1,6 @@
 # via neogcamp-lesson-one
 
-I just made a [`Do You Know SUMEDH?`](https://replit.com/@Diablo-web/Do-you-know-SUMeDH?embed=1&output=1) quiz app which tests whether my friends know me. You can also make a similar fun quiz for yourself on [repl.it](https://replit.com).
+I just made a [`Do You Know SUMEDH?`](https://replit.com/@Diablo-web/Do-you-know-SUMEDH?embed=1&output=1) quiz app which tests whether my friends know me. You can also make a similar fun quiz for yourself on [repl.it](https://replit.com).
 
 I made this quiz as a part of [neogcamp' level zero](https://www.youtube.com/playlist?list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA). You can refer [this repo](https://github.com/Diablo-web/neogcamp-levelZero) for all other codes of neogcamp's level zero.
 
